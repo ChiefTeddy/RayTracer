@@ -1,0 +1,6 @@
+Name: ChiefTeddy
+Date: 2/28/2014
+
+This readme will update as the project advances. For now, it will just state the initial checkpoint to
+achieve. This will be to create a simple 3d vector and 3d point system that can be added, subtracted,
+multiplied and divided to create new vectors, points, and correct normals.
